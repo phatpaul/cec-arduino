@@ -1,0 +1,16 @@
+Part	 Value	 Package	 Manufacturer	 Manu Part #	 Newark/Digi-key/Mouser #	 US $ @10	 Notes	 Substitute
+P1	R/A HDMI PCB Header	SMD	Molex	47151-0001	538-47151-0001 	$2.33		
+P2	HDMI RECPT RA REVERSE 	SMD	Molex	47408-0001	538-47408-0001 	$3.12		
+P3, P4	15 CON STR BRDMNT SKT 	Thru-hole	3M	929974-01-15-RK	517-929974-01-15-RK 	$1.41		
+C2,C4	47pF	0805						
+D1	1N4148	SOD323						
+R1	20k 5%	0805						
+R3	10k 5%	0805						
+R4	220 5%	0805						
+R5	27k 5%	0805						
+R8	2k 5%	0805						
+R10	100k 5%	0805						
+R11	1M 5%	0805						
+Q1,Q2	BC847 NPN Transistor	SOT-23	Fairchild	BC847BMTF	512-BC847BMTF 	$0.145		
+Arduino Nano	ARDUINO NANO V3	Thru-hole	Arduino	A000005	992-ARD-NANO30 	$32.49		
+
